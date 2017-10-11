@@ -1,1 +1,0 @@
-http://hintdesk.com/android-introduction-to-asp-net-identity/
